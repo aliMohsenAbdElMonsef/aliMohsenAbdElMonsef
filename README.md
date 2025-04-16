@@ -82,7 +82,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliMohsenAbdElMonsef&theme=radical" alt="Ali's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aliMohsenAbdElMonsef&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&title_color=ffffff" />
 </p>
 
 ## 🤝 Connect With Me
